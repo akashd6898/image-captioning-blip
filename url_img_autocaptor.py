@@ -1,4 +1,4 @@
-import requests
+'''import requests
 from PIL import Image
 from io import BytesIO
 from bs4 import BeautifulSoup
@@ -56,4 +56,4 @@ with open("captions.txt", "w") as caption_file:
             caption_file.write(f"{img_url}: {caption}\n")
         except Exception as e:
             print(f"Error processing image {img_url}: {e}")
-            continue
+            continue'''
